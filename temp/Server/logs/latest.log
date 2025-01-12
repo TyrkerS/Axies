@@ -1,0 +1,98 @@
+
+[15:57:44] [Server thread/INFO]: Loading properties
+[15:57:44] [Server thread/INFO]: Default game type: CREATIVE
+[15:57:44] [Server thread/INFO]: Generating keypair
+[15:57:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:57:45] [Server thread/INFO]: Using default channel type
+[15:57:45] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[15:57:46] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
+[15:57:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:57:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:57:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:57:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:57:46] [Server thread/INFO]: Preparing level "world"
+[15:57:46] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1657851251788983938)
+[15:57:47] [Server thread/INFO]: Preparing start region for level 1 (Seed: -1657851251788983938)
+[15:57:47] [Server thread/INFO]: Preparing start region for level 2 (Seed: -1657851251788983938)
+[15:57:47] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
+[15:57:47] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[15:57:47] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
+[15:57:47] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
+[15:57:47] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[15:57:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:57:47] [Server thread/INFO]: Done (1,916s)! For help, type "help" or "?"
+[15:59:08] [Server thread/INFO]: Dana Elena[/127.0.0.1:59430] logged in with entity id 11 at ([world]-145.23686877974555, 69.0, 93.65287476912151)
+[15:59:18] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59436.
+[15:59:18] [Thread-7/INFO]: [RaspberryJuice] Starting input thread
+[15:59:18] [Thread-8/INFO]: [RaspberryJuice] Starting output thread!
+[15:59:18] [Server thread/INFO]: [InsultBot]: You have something on your chin... no, the third one down.[m
+[15:59:28] [Server thread/INFO]: [InsultBot]: You're as sharp as a marble![m
+[15:59:38] [Server thread/INFO]: [InsultBot]: You have something on your chin... no, the third one down.[m
+[15:59:48] [Server thread/INFO]: [InsultBot]: You have something on your chin... no, the third one down.[m
+[15:59:57] [Server thread/INFO]: Dana Elena lost connection: Disconnected
+[15:59:57] [Server thread/INFO]: Dana Elena left the game
+[15:59:58] [Server thread/INFO]: [InsultBot]: You're as sharp as a marble![m
+[16:00:08] [Server thread/INFO]: [InsultBot]: You're as sharp as a marble![m
+[16:00:18] [Server thread/INFO]: [InsultBot]: You're proof that even evolution can take a coffee break.[m
+[16:00:28] [Server thread/INFO]: [InsultBot]: You're as sharp as a marble![m
+[16:00:38] [Server thread/INFO]: [InsultBot]: You have something on your chin... no, the third one down.[m
+[16:00:48] [Server thread/INFO]: [InsultBot]: You have something on your chin... no, the third one down.[m
+[16:00:58] [Server thread/INFO]: [InsultBot]: You have something on your chin... no, the third one down.[m
+[16:01:08] [Server thread/INFO]: [InsultBot]: You're proof that even evolution can take a coffee break.[m
+[16:01:18] [Server thread/INFO]: [InsultBot]: You're as sharp as a marble![m
+[16:01:28] [Server thread/INFO]: [InsultBot]: You have something on your chin... no, the third one down.[m
+[16:01:38] [Server thread/INFO]: [InsultBot]: You're proof that even evolution can take a coffee break.[m
+[16:01:48] [Server thread/INFO]: [InsultBot]: You're as sharp as a marble![m
+[16:01:58] [Server thread/INFO]: [InsultBot]: Is your brain a black hole? Nothing escapes![m
+[16:02:08] [Server thread/INFO]: [InsultBot]: You're proof that even evolution can take a coffee break.[m
+[16:02:14] [Thread-7/INFO]: [RaspberryJuice] Connection reset
+[16:02:14] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59436.
+[16:03:42] [Server thread/INFO]: Dana Elena[/127.0.0.1:59571] logged in with entity id 26 at ([world]-111.30000001192094, 69.0, 91.43796673219714)
+[16:03:51] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59583.
+[16:03:51] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
+[16:03:51] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
+[16:03:51] [Server thread/INFO]: [TNTBot]: TNT deployed at (-109, 69, 91)[m
+[16:04:06] [Server thread/INFO]: [TNTBot]: TNT deployed at (-108, 68, 91)[m
+[16:04:21] [Server thread/INFO]: [TNTBot]: TNT deployed at (-97, 63, 90)[m
+[16:04:36] [Server thread/INFO]: [TNTBot]: TNT deployed at (-100, 64, 87)[m
+[16:04:49] [Server thread/INFO]: Dana Elena lost connection: Disconnected
+[16:04:49] [Server thread/INFO]: Dana Elena left the game
+[16:04:51] [Server thread/INFO]: [TNTBot]: TNT deployed at (-78, 73, 80)[m
+[16:04:55] [Thread-9/INFO]: [RaspberryJuice] Connection reset
+[16:04:55] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59583.
+=======
+[11:35:00] [Server thread/INFO]: Starting minecraft server version 1.12
+[11:35:00] [Server thread/INFO]: Loading properties
+[11:35:00] [Server thread/INFO]: Default game type: CREATIVE
+[11:35:00] [Server thread/INFO]: Generating keypair
+[11:35:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:35:00] [Server thread/INFO]: Using default channel type
+[11:35:00] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[11:35:00] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
+[11:35:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:35:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:35:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:35:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:35:01] [Server thread/INFO]: Preparing level "world"
+[11:35:01] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1657851251788983938)
+[11:35:02] [Server thread/INFO]: Preparing start region for level 1 (Seed: -1657851251788983938)
+[11:35:02] [Server thread/INFO]: Preparing start region for level 2 (Seed: -1657851251788983938)
+[11:35:03] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
+[11:35:03] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[11:35:03] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
+[11:35:03] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
+[11:35:03] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[11:35:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:35:03] [Server thread/INFO]: Done (2,101s)! For help, type "help" or "?"
+[11:36:03] [Server thread/INFO]: Dana Elena[/127.0.0.1:60747] logged in with entity id 13 at ([world]-163.69999998807907, 57.0, 103.30000001192093)
+[11:36:17] [Server thread/INFO]: Dana Elena lost connection: Disconnected
+[11:36:17] [Server thread/INFO]: Dana Elena left the game
+[11:36:22] [Server thread/INFO]: Dana Elena[/127.0.0.1:60754] logged in with entity id 14 at ([world]-162.1890599695879, 56.0, 104.30000001192093)
+[11:37:15] [Thread-8/INFO]: [RaspberryJuice] Starting output thread!
+[11:37:15] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60778.
+[11:37:15] [Thread-7/INFO]: [RaspberryJuice] Starting input thread
+[11:37:15] [Server thread/INFO]: Hello Minecraft World[m
+[11:37:15] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60778.
+[11:37:25] [Server thread/INFO]: Dana Elena lost connection: Disconnected
+[11:37:25] [Server thread/INFO]: Dana Elena left the game
+

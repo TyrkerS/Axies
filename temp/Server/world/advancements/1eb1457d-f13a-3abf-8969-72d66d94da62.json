@@ -1,0 +1,51 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2024-12-29 11:26:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2024-12-29 11:26:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2024-12-29 11:26:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2024-12-29 11:26:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2024-12-29 11:26:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2024-12-29 11:26:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2024-12-20 10:30:49 +0100",
+<<<<<<< HEAD
+      "birch_forest": "2024-12-30 15:59:43 +0100",
+      "swampland": "2024-12-30 16:04:41 +0100",
+=======
+>>>>>>> 9191a19994835f73e465b96ea0f9505af34d58ff
+      "forest_hills": "2024-12-20 16:06:22 +0100",
+      "river": "2024-12-29 11:26:15 +0100"
+    },
+    "done": false
+  }
+}

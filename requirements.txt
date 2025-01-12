@@ -1,0 +1,4 @@
+google-generativeai
+minecraft-pi
+pytest
+pytest-cov

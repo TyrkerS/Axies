@@ -1,0 +1,16 @@
+[run]
+source = MyAdventures
+omit =
+    MyAdventures/anyio/*
+    MyAdventures/mcpi/*
+    MyAdventures/microbit/*
+    MyAdventures/agents/*
+    MyAdventures/prueba_chatbot_NOMinecraft.py
+    MyAdventures/findPort.py
+    MyAdventures/tests/__init__.py
+    MyAdventures\__init__.py
+    MyAdventures\Main.py
+
+
+[report]
+show_missing = True

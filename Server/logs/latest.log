@@ -1,0 +1,703 @@
+[11:09:40] [Server thread/INFO]: Loading properties
+[11:09:40] [Server thread/INFO]: Default game type: CREATIVE
+[11:09:40] [Server thread/INFO]: Generating keypair
+[11:09:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:09:41] [Server thread/INFO]: Using default channel type
+[11:09:43] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[11:09:44] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
+[11:09:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:09:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:09:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:09:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:09:44] [Server thread/INFO]: Preparing level "world"
+[11:09:44] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2941779676524376387)
+[11:09:46] [Server thread/INFO]: Preparing spawn area: 16%
+[11:09:47] [Server thread/INFO]: Preparing spawn area: 64%
+[11:09:47] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2941779676524376387)
+[11:09:48] [Server thread/INFO]: Preparing spawn area: 43%
+[11:09:49] [Server thread/INFO]: Preparing spawn area: 93%
+[11:09:49] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2941779676524376387)
+[11:09:50] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
+[11:09:50] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[11:09:50] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
+[11:09:50] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
+[11:09:50] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[11:09:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:09:50] [Server thread/INFO]: Done (6,058s)! For help, type "help" or "?"
+[11:09:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2702ms behind, skipping 54 tick(s)
+[11:10:11] [Server thread/INFO]: Pol[/127.0.0.1:50801] logged in with entity id 10 at ([world]119.65992982112114, 72.0, 176.76488705938883)
+[11:14:48] [Thread-8/INFO]: [RaspberryJuice] Starting output thread!
+[11:14:48] [Thread-7/INFO]: [RaspberryJuice] Starting input thread
+[11:14:48] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50824.
+[11:14:48] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot[m
+[11:14:48] [Server thread/INFO]: Type 'start <bot_name>' to activate a bot.[m
+[11:14:48] [Server thread/INFO]: Type 'stop <bot_name>' to deactivate a bot.[m
+[11:14:57] [Server thread/INFO]: Pol lost connection: Disconnected
+[11:14:57] [Server thread/INFO]: Pol left the game
+[11:15:00] [Server thread/INFO]: Pol[/127.0.0.1:50827] logged in with entity id 12 at ([world]119.48967976264208, 72.0, 175.98428840928838)
+[11:15:03] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50824.
+[11:16:03] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50830.
+[11:16:03] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
+[11:16:03] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
+[11:16:03] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot[m
+[11:16:03] [Server thread/INFO]: Type 'start <bot_name>' to activate a bot.[m
+[11:16:03] [Server thread/INFO]: Type 'stop <bot_name>' to deactivate a bot.[m
+[11:16:13] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50830.
+[11:17:57] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50831.
+[11:17:57] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
+[11:17:57] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
+[11:17:57] [Server thread/INFO]: [TNTBot]: TNT deployed at (122, 72, 175)[m
+[11:17:57] [Server thread/INFO]: [TNTBot]: TNT deployed at (123, 72, 175)[m
+[11:17:57] [Server thread/INFO]: [TNTBot]: TNT deployed at (124, 72, 175)[m
+[11:18:12] [Server thread/INFO]: [TNTBot]: TNT deployed at (85, 70, 171)[m
+[11:18:12] [Server thread/INFO]: [TNTBot]: TNT deployed at (86, 70, 171)[m
+[11:18:12] [Server thread/INFO]: [TNTBot]: TNT deployed at (87, 70, 171)[m
+[11:18:27] [Server thread/INFO]: [TNTBot]: TNT deployed at (38, 69, 167)[m
+[11:18:27] [Server thread/INFO]: [TNTBot]: TNT deployed at (39, 69, 167)[m
+[11:18:27] [Server thread/INFO]: [TNTBot]: TNT deployed at (40, 69, 167)[m
+[11:18:42] [Server thread/INFO]: [TNTBot]: TNT deployed at (84, 70, 177)[m
+[11:18:42] [Server thread/INFO]: [TNTBot]: TNT deployed at (85, 70, 177)[m
+[11:18:42] [Server thread/INFO]: [TNTBot]: TNT deployed at (86, 70, 177)[m
+[11:18:53] [Thread-11/INFO]: [RaspberryJuice] Connection reset
+[11:18:53] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50831.
+[11:23:36] [Server thread/INFO]: Pol lost connection: Disconnected
+[11:23:36] [Server thread/INFO]: Pol left the game
+[12:03:41] [Server thread/INFO]: Pol[/127.0.0.1:50996] logged in with entity id 14 at ([world]87.23086160689307, 71.0, 178.40950898689997)
+[12:04:04] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50998.
+[12:04:04] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
+[12:04:04] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
+[12:04:05] [Server thread/INFO]: [TNTBot]: TNT deployed at (66, 70, 148)[m
+[12:04:05] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 148)[m
+[12:04:05] [Server thread/INFO]: [TNTBot]: TNT deployed at (68, 70, 148)[m
+[12:04:20] [Server thread/INFO]: [TNTBot]: TNT deployed at (66, 70, 148)[m
+[12:04:20] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 148)[m
+[12:04:20] [Server thread/INFO]: [TNTBot]: TNT deployed at (68, 70, 148)[m
+[12:04:35] [Server thread/INFO]: [TNTBot]: TNT deployed at (66, 70, 148)[m
+[12:04:35] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 148)[m
+[12:04:35] [Server thread/INFO]: [TNTBot]: TNT deployed at (68, 70, 148)[m
+[12:04:50] [Server thread/INFO]: [TNTBot]: TNT deployed at (66, 70, 148)[m
+[12:04:50] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 148)[m
+[12:04:50] [Server thread/INFO]: [TNTBot]: TNT deployed at (68, 70, 148)[m
+[12:05:05] [Server thread/INFO]: [TNTBot]: TNT deployed at (66, 70, 148)[m
+[12:05:05] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 148)[m
+[12:05:05] [Server thread/INFO]: [TNTBot]: TNT deployed at (68, 70, 148)[m
+[12:05:21] [Server thread/INFO]: [TNTBot]: TNT deployed at (66, 70, 148)[m
+[12:05:21] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 148)[m
+[12:05:21] [Server thread/INFO]: [TNTBot]: TNT deployed at (68, 70, 148)[m
+[12:05:36] [Server thread/INFO]: [TNTBot]: TNT deployed at (66, 70, 148)[m
+[12:05:36] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 148)[m
+[12:05:36] [Server thread/INFO]: [TNTBot]: TNT deployed at (68, 70, 148)[m
+[12:05:51] [Server thread/INFO]: [TNTBot]: TNT deployed at (66, 70, 148)[m
+[12:05:51] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 148)[m
+[12:05:51] [Server thread/INFO]: [TNTBot]: TNT deployed at (68, 70, 148)[m
+[12:06:06] [Server thread/INFO]: [TNTBot]: TNT deployed at (66, 70, 148)[m
+[12:06:06] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 148)[m
+[12:06:06] [Server thread/INFO]: [TNTBot]: TNT deployed at (68, 70, 148)[m
+[12:06:21] [Server thread/INFO]: [TNTBot]: TNT deployed at (66, 70, 148)[m
+[12:06:21] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 148)[m
+[12:06:21] [Server thread/INFO]: [TNTBot]: TNT deployed at (68, 70, 148)[m
+[12:06:37] [Server thread/INFO]: [TNTBot]: TNT deployed at (66, 70, 148)[m
+[12:06:37] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 148)[m
+[12:06:37] [Server thread/INFO]: [TNTBot]: TNT deployed at (68, 70, 148)[m
+[12:06:52] [Server thread/INFO]: [TNTBot]: TNT deployed at (66, 70, 148)[m
+[12:06:52] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 148)[m
+[12:06:52] [Server thread/INFO]: [TNTBot]: TNT deployed at (68, 70, 148)[m
+[12:07:07] [Server thread/INFO]: [TNTBot]: TNT deployed at (66, 70, 148)[m
+[12:07:07] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 148)[m
+[12:07:07] [Server thread/INFO]: [TNTBot]: TNT deployed at (68, 70, 148)[m
+[12:07:22] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 149)[m
+[12:07:22] [Server thread/INFO]: [TNTBot]: TNT deployed at (68, 70, 149)[m
+[12:07:22] [Server thread/INFO]: [TNTBot]: TNT deployed at (69, 70, 149)[m
+[12:07:37] [Server thread/INFO]: [TNTBot]: TNT deployed at (43, 69, 163)[m
+[12:07:37] [Server thread/INFO]: [TNTBot]: TNT deployed at (44, 69, 163)[m
+[12:07:37] [Server thread/INFO]: [TNTBot]: TNT deployed at (45, 69, 163)[m
+[12:07:53] [Server thread/INFO]: [TNTBot]: TNT deployed at (43, 69, 158)[m
+[12:07:53] [Server thread/INFO]: [TNTBot]: TNT deployed at (44, 69, 158)[m
+[12:07:53] [Server thread/INFO]: [TNTBot]: TNT deployed at (45, 69, 158)[m
+[12:08:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50998.
+[12:10:01] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51045.
+[12:10:01] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
+[12:10:01] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
+[12:10:01] [Server thread/INFO]: [TNTBot]: TNT deployed at (52, 70, 145)[m
+[12:10:01] [Server thread/INFO]: [TNTBot]: TNT deployed at (53, 70, 145)[m
+[12:10:01] [Server thread/INFO]: [TNTBot]: TNT deployed at (54, 70, 145)[m
+[12:10:01] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (53, 71, 145)[m
+[12:10:02] [Server thread/INFO]: [TNTBot]: Redstone torch removed from (53, 71, 145)[m
+[12:10:17] [Server thread/INFO]: [TNTBot]: TNT deployed at (62, 70, 139)[m
+[12:10:17] [Server thread/INFO]: [TNTBot]: TNT deployed at (63, 70, 139)[m
+[12:10:17] [Server thread/INFO]: [TNTBot]: TNT deployed at (64, 70, 139)[m
+[12:10:17] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (63, 71, 139)[m
+[12:10:18] [Server thread/INFO]: [TNTBot]: Redstone torch removed from (63, 71, 139)[m
+[12:10:28] [Thread-15/INFO]: [RaspberryJuice] Connection reset
+[12:10:28] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51045.
+[12:12:32] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51053.
+[12:12:32] [Thread-17/INFO]: [RaspberryJuice] Starting input thread
+[12:12:32] [Thread-18/INFO]: [RaspberryJuice] Starting output thread!
+[12:12:32] [Server thread/INFO]: [TNTBot]: TNT deployed at (65, 70, 158)[m
+[12:12:32] [Server thread/INFO]: [TNTBot]: TNT deployed at (66, 70, 158)[m
+[12:12:32] [Server thread/INFO]: [TNTBot]: TNT deployed at (67, 70, 158)[m
+[12:12:33] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (66, 71, 158)[m
+[12:12:33] [Server thread/INFO]: [TNTBot]: Redstone torch removed from (66, 71, 158)[m
+[12:12:48] [Server thread/INFO]: [TNTBot]: TNT deployed at (70, 69, 164)[m
+[12:12:48] [Server thread/INFO]: [TNTBot]: TNT deployed at (71, 69, 164)[m
+[12:12:48] [Server thread/INFO]: [TNTBot]: TNT deployed at (72, 69, 164)[m
+[12:12:48] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (71, 70, 164)[m
+[12:12:49] [Server thread/INFO]: [TNTBot]: Redstone torch removed from (71, 70, 164)[m
+[12:13:04] [Server thread/INFO]: [TNTBot]: TNT deployed at (70, 69, 163)[m
+[12:13:04] [Server thread/INFO]: [TNTBot]: TNT deployed at (71, 69, 163)[m
+[12:13:04] [Server thread/INFO]: [TNTBot]: TNT deployed at (72, 69, 163)[m
+[12:13:04] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (71, 70, 163)[m
+[12:13:05] [Server thread/INFO]: [TNTBot]: Redstone torch removed from (71, 70, 163)[m
+[12:13:14] [Thread-17/INFO]: [RaspberryJuice] Connection reset
+[12:13:15] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51053.
+[12:13:20] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51055.
+[12:13:20] [Thread-19/INFO]: [RaspberryJuice] Starting input thread
+[12:13:20] [Thread-20/INFO]: [RaspberryJuice] Starting output thread!
+[12:13:21] [Server thread/INFO]: [TNTBot]: TNT deployed at (70, 69, 163)[m
+[12:13:21] [Server thread/INFO]: [TNTBot]: TNT deployed at (71, 69, 163)[m
+[12:13:21] [Server thread/INFO]: [TNTBot]: TNT deployed at (72, 69, 163)[m
+[12:13:21] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (71, 70, 163)[m
+[12:13:23] [Server thread/INFO]: [TNTBot]: Redstone torch removed from (71, 70, 163)[m
+[12:13:38] [Server thread/INFO]: [TNTBot]: TNT deployed at (59, 69, 170)[m
+[12:13:38] [Server thread/INFO]: [TNTBot]: TNT deployed at (60, 69, 170)[m
+[12:13:38] [Server thread/INFO]: [TNTBot]: TNT deployed at (61, 69, 170)[m
+[12:13:38] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (60, 70, 170)[m
+[12:13:40] [Server thread/INFO]: [TNTBot]: Redstone torch removed from (60, 70, 170)[m
+[12:13:45] [Thread-19/INFO]: [RaspberryJuice] Connection reset
+[12:13:45] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51055.
+[12:13:54] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51057.
+[12:13:54] [Thread-22/INFO]: [RaspberryJuice] Starting output thread!
+[12:13:54] [Thread-21/INFO]: [RaspberryJuice] Starting input thread
+[12:13:54] [Server thread/INFO]: [TNTBot]: TNT deployed at (59, 69, 170)[m
+[12:13:54] [Server thread/INFO]: [TNTBot]: TNT deployed at (60, 69, 170)[m
+[12:13:54] [Server thread/INFO]: [TNTBot]: TNT deployed at (61, 69, 170)[m
+[12:13:54] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (60, 70, 170)[m
+[12:14:14] [Server thread/INFO]: [TNTBot]: Redstone torch removed from (60, 70, 170)[m
+[12:14:27] [Thread-21/INFO]: [RaspberryJuice] Connection reset
+[12:14:28] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51057.
+[12:14:55] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51060.
+[12:14:55] [Thread-24/INFO]: [RaspberryJuice] Starting output thread!
+[12:14:56] [Thread-23/INFO]: [RaspberryJuice] Starting input thread
+[12:14:56] [Server thread/INFO]: [TNTBot]: TNT deployed at (56, 69, 172)[m
+[12:14:56] [Server thread/INFO]: [TNTBot]: TNT deployed at (57, 69, 172)[m
+[12:14:56] [Server thread/INFO]: [TNTBot]: TNT deployed at (58, 69, 172)[m
+[12:14:56] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (57, 70, 172)[m
+[12:15:11] [Server thread/INFO]: [TNTBot]: TNT deployed at (61, 67, 185)[m
+[12:15:11] [Server thread/INFO]: [TNTBot]: TNT deployed at (62, 67, 185)[m
+[12:15:11] [Server thread/INFO]: [TNTBot]: TNT deployed at (63, 67, 185)[m
+[12:15:11] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (62, 68, 185)[m
+[12:15:20] [Thread-23/INFO]: [RaspberryJuice] Connection reset
+[12:15:20] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51060.
+[13:09:47] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51156.
+[13:09:47] [Thread-25/INFO]: [RaspberryJuice] Starting input thread
+[13:09:47] [Thread-26/INFO]: [RaspberryJuice] Starting output thread!
+[13:09:47] [Server thread/INFO]: [TNTBot]: TNT deployed at (49, 65, 191)[m
+[13:09:47] [Server thread/INFO]: [TNTBot]: TNT deployed at (50, 65, 191)[m
+[13:09:47] [Server thread/INFO]: [TNTBot]: TNT deployed at (51, 65, 191)[m
+[13:09:47] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (49, 66, 191)[m
+[13:10:02] [Server thread/INFO]: [TNTBot]: TNT deployed at (41, 64, 200)[m
+[13:10:02] [Server thread/INFO]: [TNTBot]: TNT deployed at (42, 64, 200)[m
+[13:10:02] [Server thread/INFO]: [TNTBot]: TNT deployed at (43, 64, 200)[m
+[13:10:02] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (41, 65, 200)[m
+[13:10:17] [Server thread/INFO]: [TNTBot]: TNT deployed at (42, 64, 202)[m
+[13:10:17] [Server thread/INFO]: [TNTBot]: TNT deployed at (43, 64, 202)[m
+[13:10:17] [Server thread/INFO]: [TNTBot]: TNT deployed at (44, 64, 202)[m
+[13:10:18] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (42, 65, 202)[m
+[13:10:33] [Server thread/INFO]: [TNTBot]: TNT deployed at (42, 64, 202)[m
+[13:10:33] [Server thread/INFO]: [TNTBot]: TNT deployed at (43, 64, 202)[m
+[13:10:33] [Server thread/INFO]: [TNTBot]: TNT deployed at (44, 64, 202)[m
+[13:10:33] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (42, 65, 202)[m
+[13:10:48] [Server thread/INFO]: [TNTBot]: TNT deployed at (42, 64, 202)[m
+[13:10:48] [Server thread/INFO]: [TNTBot]: TNT deployed at (43, 64, 202)[m
+[13:10:48] [Server thread/INFO]: [TNTBot]: TNT deployed at (44, 64, 202)[m
+[13:10:48] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (42, 65, 202)[m
+[13:11:03] [Server thread/INFO]: [TNTBot]: TNT deployed at (42, 64, 202)[m
+[13:11:03] [Server thread/INFO]: [TNTBot]: TNT deployed at (43, 64, 202)[m
+[13:11:03] [Server thread/INFO]: [TNTBot]: TNT deployed at (44, 64, 202)[m
+[13:11:03] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (42, 65, 202)[m
+[13:11:07] [Thread-25/INFO]: [RaspberryJuice] Connection reset
+[13:11:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51156.
+[13:11:09] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51160.
+[13:11:09] [Thread-28/INFO]: [RaspberryJuice] Starting output thread!
+[13:11:09] [Thread-27/INFO]: [RaspberryJuice] Starting input thread
+[13:11:09] [Server thread/INFO]: [TNTBot]: TNT deployed at (42, 64, 202)[m
+[13:11:09] [Server thread/INFO]: [TNTBot]: TNT deployed at (43, 64, 202)[m
+[13:11:09] [Server thread/INFO]: [TNTBot]: TNT deployed at (44, 64, 202)[m
+[13:11:09] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (42, 65, 202)[m
+[13:11:24] [Server thread/INFO]: [TNTBot]: TNT deployed at (27, 64, 192)[m
+[13:11:24] [Server thread/INFO]: [TNTBot]: TNT deployed at (28, 64, 192)[m
+[13:11:24] [Server thread/INFO]: [TNTBot]: TNT deployed at (29, 64, 192)[m
+[13:11:25] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (27, 65, 192)[m
+[13:11:40] [Server thread/INFO]: [TNTBot]: TNT deployed at (31, 64, 190)[m
+[13:11:40] [Server thread/INFO]: [TNTBot]: TNT deployed at (32, 64, 190)[m
+[13:11:40] [Server thread/INFO]: [TNTBot]: TNT deployed at (33, 64, 190)[m
+[13:11:40] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (31, 65, 190)[m
+[13:11:55] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51160.
+[13:11:57] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51162.
+[13:11:57] [Thread-29/INFO]: [RaspberryJuice] Starting input thread
+[13:11:57] [Thread-30/INFO]: [RaspberryJuice] Starting output thread!
+[13:11:57] [Server thread/INFO]: [TNTBot]: TNT deployed at (31, 64, 190)[m
+[13:11:57] [Server thread/INFO]: [TNTBot]: TNT deployed at (32, 64, 190)[m
+[13:11:57] [Server thread/INFO]: [TNTBot]: TNT deployed at (33, 64, 190)[m
+[13:11:57] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (31, 65, 190)[m
+[13:12:12] [Server thread/INFO]: [TNTBot]: TNT deployed at (2, 64, 168)[m
+[13:12:12] [Server thread/INFO]: [TNTBot]: TNT deployed at (3, 64, 168)[m
+[13:12:12] [Server thread/INFO]: [TNTBot]: TNT deployed at (4, 64, 168)[m
+[13:12:12] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (2, 65, 168)[m
+[13:12:27] [Server thread/INFO]: [TNTBot]: TNT deployed at (-2, 64, 157)[m
+[13:12:27] [Server thread/INFO]: [TNTBot]: TNT deployed at (-1, 64, 157)[m
+[13:12:27] [Server thread/INFO]: [TNTBot]: TNT deployed at (0, 64, 157)[m
+[13:12:27] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (-2, 65, 157)[m
+[13:12:34] [Thread-29/INFO]: [RaspberryJuice] Connection reset
+[13:12:34] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51162.
+[13:20:09] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51182.
+[13:20:09] [Thread-31/INFO]: [RaspberryJuice] Starting input thread
+[13:20:09] [Thread-32/INFO]: [RaspberryJuice] Starting output thread!
+[13:20:09] [Server thread/INFO]: [TNTBot]: TNT deployed at (0, 64, 148)[m
+[13:20:09] [Server thread/INFO]: [TNTBot]: TNT deployed at (1, 64, 148)[m
+[13:20:09] [Server thread/INFO]: [TNTBot]: TNT deployed at (2, 64, 148)[m
+[13:20:09] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (0, 65, 148)[m
+[13:20:24] [Server thread/INFO]: [TNTBot]: TNT deployed at (-12, 67, 182)[m
+[13:20:24] [Server thread/INFO]: [TNTBot]: TNT deployed at (-11, 67, 182)[m
+[13:20:24] [Server thread/INFO]: [TNTBot]: TNT deployed at (-10, 67, 182)[m
+[13:20:24] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (-12, 68, 182)[m
+[13:20:39] [Server thread/INFO]: [TNTBot]: TNT deployed at (0, 68, 200)[m
+[13:20:39] [Server thread/INFO]: [TNTBot]: TNT deployed at (1, 68, 200)[m
+[13:20:39] [Server thread/INFO]: [TNTBot]: TNT deployed at (2, 68, 200)[m
+[13:20:39] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (0, 69, 200)[m
+[13:20:54] [Server thread/INFO]: [TNTBot]: TNT deployed at (0, 68, 218)[m
+[13:20:54] [Server thread/INFO]: [TNTBot]: TNT deployed at (1, 68, 218)[m
+[13:20:54] [Server thread/INFO]: [TNTBot]: TNT deployed at (2, 68, 218)[m
+[13:20:55] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (0, 69, 218)[m
+[13:21:10] [Server thread/INFO]: [TNTBot]: TNT deployed at (49, 64, 200)[m
+[13:21:10] [Server thread/INFO]: [TNTBot]: TNT deployed at (50, 64, 200)[m
+[13:21:10] [Server thread/INFO]: [TNTBot]: TNT deployed at (51, 64, 200)[m
+[13:21:10] [Server thread/INFO]: [TNTBot]: Redstone torch placed at (49, 65, 200)[m
+[13:21:14] [Thread-31/INFO]: [RaspberryJuice] Connection reset
+[13:21:14] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51182.
+[13:21:21] [Server thread/INFO]: Pol has made the advancement [Stone Age]
+[13:23:29] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51198.
+[13:23:29] [Thread-33/INFO]: [RaspberryJuice] Starting input thread
+[13:23:29] [Thread-34/INFO]: [RaspberryJuice] Starting output thread!
+[13:23:29] [Server thread/INFO]: [TNTBot]: TNT deployed at (49, 60, 200)[m
+[13:23:34] [Server thread/INFO]: [TNTBot]: TNT deployed at (50, 60, 200)[m
+[13:23:39] [Server thread/INFO]: [TNTBot]: TNT deployed at (61, 67, 213)[m
+[13:23:45] [Server thread/INFO]: [TNTBot]: TNT deployed at (59, 67, 214)[m
+[13:23:49] [Thread-33/INFO]: [RaspberryJuice] Connection reset
+[13:23:49] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51198.
+[13:23:55] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51203.
+[13:23:55] [Thread-35/INFO]: [RaspberryJuice] Starting input thread
+[13:23:55] [Thread-36/INFO]: [RaspberryJuice] Starting output thread!
+[13:23:55] [Server thread/INFO]: [TNTBot]: TNT deployed at (59, 67, 214)[m
+[13:24:00] [Server thread/INFO]: [TNTBot]: TNT deployed at (55, 68, 217)[m
+[13:24:05] [Server thread/INFO]: [TNTBot]: TNT deployed at (61, 69, 229)[m
+[13:24:10] [Server thread/INFO]: [TNTBot]: TNT deployed at (63, 69, 231)[m
+[13:24:15] [Server thread/INFO]: [TNTBot]: TNT deployed at (63, 69, 231)[m
+[13:24:20] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51203.
+[13:25:47] [Thread-37/INFO]: [RaspberryJuice] Starting input thread
+[13:25:47] [Thread-38/INFO]: [RaspberryJuice] Starting output thread!
+[13:25:47] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51215.
+[13:25:48] [Server thread/INFO]: [TNTBot]: TNT deployed at (63, 69, 231)[m
+[13:25:48] [Server thread/INFO]: [TNTBot]: TNT deployed at (64, 69, 231)[m
+[13:25:48] [Server thread/INFO]: [TNTBot]: TNT deployed at (65, 69, 231)[m
+[13:26:03] [Server thread/INFO]: [TNTBot]: TNT deployed at (81, 69, 244)[m
+[13:26:03] [Server thread/INFO]: [TNTBot]: TNT deployed at (82, 69, 244)[m
+[13:26:03] [Server thread/INFO]: [TNTBot]: TNT deployed at (83, 69, 244)[m
+[13:26:18] [Server thread/INFO]: [TNTBot]: TNT deployed at (87, 68, 251)[m
+[13:26:18] [Server thread/INFO]: [TNTBot]: TNT deployed at (88, 68, 251)[m
+[13:26:18] [Server thread/INFO]: [TNTBot]: TNT deployed at (89, 68, 251)[m
+[13:26:33] [Server thread/INFO]: [TNTBot]: TNT deployed at (87, 68, 251)[m
+[13:26:33] [Server thread/INFO]: [TNTBot]: TNT deployed at (88, 68, 251)[m
+[13:26:33] [Server thread/INFO]: [TNTBot]: TNT deployed at (89, 68, 251)[m
+[13:26:33] [Thread-37/INFO]: [RaspberryJuice] Connection reset
+[13:26:34] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51215.
+[13:26:52] [Thread-39/INFO]: [RaspberryJuice] Starting input thread
+[13:26:52] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51219.
+[13:26:52] [Thread-40/INFO]: [RaspberryJuice] Starting output thread!
+[13:26:52] [Server thread/INFO]: [TNTBot]: TNT deployed at (87, 68, 251)[m
+[13:26:52] [Server thread/INFO]: [TNTBot]: TNT deployed at (88, 68, 251)[m
+[13:26:52] [Server thread/INFO]: [TNTBot]: TNT deployed at (89, 68, 251)[m
+[13:26:54] [Thread-39/INFO]: [RaspberryJuice] Connection reset
+[13:26:54] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51219.
+[13:27:07] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51220.
+[13:27:07] [Thread-42/INFO]: [RaspberryJuice] Starting output thread!
+[13:27:07] [Thread-41/INFO]: [RaspberryJuice] Starting input thread
+[13:27:07] [Server thread/INFO]: [TNTBot]: TNT deployed at (87, 68, 251)[m
+[13:27:07] [Server thread/INFO]: [TNTBot]: TNT deployed at (88, 68, 251)[m
+[13:27:07] [Server thread/INFO]: [TNTBot]: TNT deployed at (89, 68, 251)[m
+[13:27:12] [Server thread/INFO]: [TNTBot]: TNT deployed at (96, 69, 263)[m
+[13:27:12] [Server thread/INFO]: [TNTBot]: TNT deployed at (97, 69, 263)[m
+[13:27:12] [Server thread/INFO]: [TNTBot]: TNT deployed at (98, 69, 263)[m
+[13:27:17] [Server thread/INFO]: [TNTBot]: TNT deployed at (94, 69, 273)[m
+[13:27:17] [Server thread/INFO]: [TNTBot]: TNT deployed at (95, 69, 273)[m
+[13:27:17] [Server thread/INFO]: [TNTBot]: TNT deployed at (96, 69, 273)[m
+[13:27:20] [Thread-41/INFO]: [RaspberryJuice] Connection reset
+[13:27:20] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51220.
+[13:28:30] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51229.
+[13:28:30] [Thread-43/INFO]: [RaspberryJuice] Starting input thread
+[13:28:30] [Thread-44/INFO]: [RaspberryJuice] Starting output thread!
+[13:28:30] [Server thread/INFO]: [TNTBot]: TNT deployed at (92, 69, 274)[m
+[13:28:30] [Server thread/INFO]: [TNTBot]: Fire placed at (92, 69, 274)[m
+[13:28:30] [Server thread/INFO]: [TNTBot]: TNT deployed at (93, 69, 274)[m
+[13:28:30] [Server thread/INFO]: [TNTBot]: Fire placed at (93, 69, 274)[m
+[13:28:30] [Server thread/INFO]: [TNTBot]: TNT deployed at (94, 69, 274)[m
+[13:28:30] [Server thread/INFO]: [TNTBot]: Fire placed at (94, 69, 274)[m
+[13:28:35] [Server thread/INFO]: [TNTBot]: TNT deployed at (102, 71, 267)[m
+[13:28:35] [Server thread/INFO]: [TNTBot]: Fire placed at (102, 71, 267)[m
+[13:28:35] [Server thread/INFO]: [TNTBot]: TNT deployed at (103, 71, 267)[m
+[13:28:35] [Server thread/INFO]: [TNTBot]: Fire placed at (103, 71, 267)[m
+[13:28:35] [Server thread/INFO]: [TNTBot]: TNT deployed at (104, 71, 267)[m
+[13:28:35] [Server thread/INFO]: [TNTBot]: Fire placed at (104, 71, 267)[m
+[13:28:40] [Server thread/INFO]: [TNTBot]: TNT deployed at (104, 68, 263)[m
+[13:28:40] [Server thread/INFO]: [TNTBot]: Fire placed at (104, 68, 263)[m
+[13:28:40] [Server thread/INFO]: [TNTBot]: TNT deployed at (105, 68, 263)[m
+[13:28:40] [Server thread/INFO]: [TNTBot]: Fire placed at (105, 68, 263)[m
+[13:28:40] [Server thread/INFO]: [TNTBot]: TNT deployed at (106, 68, 263)[m
+[13:28:40] [Server thread/INFO]: [TNTBot]: Fire placed at (106, 68, 263)[m
+[13:28:45] [Server thread/INFO]: [TNTBot]: TNT deployed at (106, 66, 246)[m
+[13:28:45] [Server thread/INFO]: [TNTBot]: Fire placed at (106, 66, 246)[m
+[13:28:45] [Server thread/INFO]: [TNTBot]: TNT deployed at (107, 66, 246)[m
+[13:28:45] [Server thread/INFO]: [TNTBot]: Fire placed at (107, 66, 246)[m
+[13:28:45] [Server thread/INFO]: [TNTBot]: TNT deployed at (108, 66, 246)[m
+[13:28:45] [Server thread/INFO]: [TNTBot]: Fire placed at (108, 66, 246)[m
+[13:28:50] [Server thread/INFO]: [TNTBot]: TNT deployed at (105, 66, 246)[m
+[13:28:50] [Server thread/INFO]: [TNTBot]: Fire placed at (105, 66, 246)[m
+[13:28:50] [Server thread/INFO]: [TNTBot]: TNT deployed at (106, 66, 246)[m
+[13:28:50] [Server thread/INFO]: [TNTBot]: Fire placed at (106, 66, 246)[m
+[13:28:50] [Server thread/INFO]: [TNTBot]: TNT deployed at (107, 66, 246)[m
+[13:28:50] [Server thread/INFO]: [TNTBot]: Fire placed at (107, 66, 246)[m
+[13:28:55] [Server thread/INFO]: [TNTBot]: TNT deployed at (103, 66, 247)[m
+[13:28:55] [Server thread/INFO]: [TNTBot]: Fire placed at (103, 66, 247)[m
+[13:28:55] [Server thread/INFO]: [TNTBot]: TNT deployed at (104, 66, 247)[m
+[13:28:55] [Server thread/INFO]: [TNTBot]: Fire placed at (104, 66, 247)[m
+[13:28:55] [Server thread/INFO]: [TNTBot]: TNT deployed at (105, 66, 247)[m
+[13:28:55] [Server thread/INFO]: [TNTBot]: Fire placed at (105, 66, 247)[m
+[13:29:00] [Server thread/INFO]: [TNTBot]: TNT deployed at (103, 66, 247)[m
+[13:29:00] [Server thread/INFO]: [TNTBot]: Fire placed at (103, 66, 247)[m
+[13:29:00] [Server thread/INFO]: [TNTBot]: TNT deployed at (104, 66, 247)[m
+[13:29:00] [Server thread/INFO]: [TNTBot]: Fire placed at (104, 66, 247)[m
+[13:29:00] [Server thread/INFO]: [TNTBot]: TNT deployed at (105, 66, 247)[m
+[13:29:00] [Server thread/INFO]: [TNTBot]: Fire placed at (105, 66, 247)[m
+[13:29:04] [Thread-43/INFO]: [RaspberryJuice] Connection reset
+[13:29:04] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51229.
+[13:30:22] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51232.
+[13:30:22] [Thread-46/INFO]: [RaspberryJuice] Starting output thread!
+[13:30:22] [Thread-45/INFO]: [RaspberryJuice] Starting input thread
+[13:30:22] [Server thread/INFO]: [TNTBot]: TNT deployed at (103, 66, 247)[m
+[13:30:22] [Server thread/INFO]: [TNTBot]: Fire placed at (103, 67, 247)[m
+[13:30:22] [Server thread/INFO]: [TNTBot]: TNT deployed at (104, 66, 247)[m
+[13:30:22] [Server thread/INFO]: [TNTBot]: Fire placed at (104, 67, 247)[m
+[13:30:22] [Server thread/INFO]: [TNTBot]: TNT deployed at (105, 66, 247)[m
+[13:30:22] [Server thread/INFO]: [TNTBot]: Fire placed at (105, 67, 247)[m
+[13:30:27] [Server thread/INFO]: [TNTBot]: TNT deployed at (94, 68, 258)[m
+[13:30:27] [Server thread/INFO]: [TNTBot]: Fire placed at (94, 69, 258)[m
+[13:30:27] [Server thread/INFO]: [TNTBot]: TNT deployed at (95, 68, 258)[m
+[13:30:27] [Server thread/INFO]: [TNTBot]: Fire placed at (95, 69, 258)[m
+[13:30:27] [Server thread/INFO]: [TNTBot]: TNT deployed at (96, 68, 258)[m
+[13:30:27] [Server thread/INFO]: [TNTBot]: Fire placed at (96, 69, 258)[m
+[13:30:32] [Server thread/INFO]: [TNTBot]: TNT deployed at (82, 68, 266)[m
+[13:30:32] [Server thread/INFO]: [TNTBot]: Fire placed at (82, 69, 266)[m
+[13:30:32] [Server thread/INFO]: [TNTBot]: TNT deployed at (83, 68, 266)[m
+[13:30:32] [Server thread/INFO]: [TNTBot]: Fire placed at (83, 69, 266)[m
+[13:30:32] [Server thread/INFO]: [TNTBot]: TNT deployed at (84, 68, 266)[m
+[13:30:32] [Server thread/INFO]: [TNTBot]: Fire placed at (84, 69, 266)[m
+[13:30:37] [Server thread/INFO]: [TNTBot]: TNT deployed at (75, 69, 288)[m
+[13:30:37] [Server thread/INFO]: [TNTBot]: Fire placed at (75, 70, 288)[m
+[13:30:37] [Server thread/INFO]: [TNTBot]: TNT deployed at (76, 69, 288)[m
+[13:30:37] [Server thread/INFO]: [TNTBot]: Fire placed at (76, 70, 288)[m
+[13:30:37] [Server thread/INFO]: [TNTBot]: TNT deployed at (77, 69, 288)[m
+[13:30:37] [Server thread/INFO]: [TNTBot]: Fire placed at (77, 70, 288)[m
+[13:30:42] [Server thread/INFO]: [TNTBot]: TNT deployed at (96, 68, 308)[m
+[13:30:42] [Server thread/INFO]: [TNTBot]: Fire placed at (96, 69, 308)[m
+[13:30:42] [Server thread/INFO]: [TNTBot]: TNT deployed at (97, 68, 308)[m
+[13:30:42] [Server thread/INFO]: [TNTBot]: Fire placed at (97, 69, 308)[m
+[13:30:42] [Server thread/INFO]: [TNTBot]: TNT deployed at (98, 68, 308)[m
+[13:30:42] [Server thread/INFO]: [TNTBot]: Fire placed at (98, 69, 308)[m
+[13:30:47] [Server thread/INFO]: [TNTBot]: TNT deployed at (88, 68, 308)[m
+[13:30:47] [Server thread/INFO]: [TNTBot]: Fire placed at (88, 69, 308)[m
+[13:30:47] [Server thread/INFO]: [TNTBot]: TNT deployed at (89, 68, 308)[m
+[13:30:47] [Server thread/INFO]: [TNTBot]: Fire placed at (89, 69, 308)[m
+[13:30:47] [Server thread/INFO]: [TNTBot]: TNT deployed at (90, 68, 308)[m
+[13:30:47] [Server thread/INFO]: [TNTBot]: Fire placed at (90, 69, 308)[m
+[13:30:52] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51232.
+[13:56:05] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51286.
+[13:56:05] [Thread-47/INFO]: [RaspberryJuice] Starting input thread
+[13:56:05] [Thread-48/INFO]: [RaspberryJuice] Starting output thread!
+[13:56:05] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot, ChatBot[m
+[13:56:05] [Server thread/INFO]: Type 'start <bot_name>' to activate a bot.[m
+[13:56:05] [Server thread/INFO]: Type 'stop' to deactivate the active bot.[m
+[13:56:05] [Server thread/INFO]: Type 'list_methods <bot_name>' to list bot methods.[m
+[13:56:18] [Netty Server IO #2/INFO]: <Pol> start tntbot[m
+[13:56:18] [Server thread/INFO]: Tntbot activated.[m
+[13:56:18] [Server thread/INFO]: [TNTBot]: TNT deployed at (88, 65, 308)[m
+[13:56:18] [Server thread/INFO]: [TNTBot]: Fire placed at (88, 66, 308)[m
+[13:56:18] [Server thread/INFO]: [TNTBot]: TNT deployed at (89, 65, 308)[m
+[13:56:18] [Server thread/INFO]: [TNTBot]: Fire placed at (89, 66, 308)[m
+[13:56:18] [Server thread/INFO]: [TNTBot]: TNT deployed at (90, 65, 308)[m
+[13:56:18] [Server thread/INFO]: [TNTBot]: Fire placed at (90, 66, 308)[m
+[13:56:38] [Netty Server IO #2/INFO]: <Pol> stop tntbot[m
+[13:56:51] [Thread-47/INFO]: [RaspberryJuice] Connection reset
+[13:56:51] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51286.
+[13:56:56] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51288.
+[13:56:56] [Thread-49/INFO]: [RaspberryJuice] Starting input thread
+[13:56:56] [Thread-50/INFO]: [RaspberryJuice] Starting output thread!
+[13:56:56] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot, ChatBot[m
+[13:56:56] [Server thread/INFO]: Type 'start <bot_name>' to activate a bot.[m
+[13:56:56] [Server thread/INFO]: Type 'stop' to deactivate the active bot.[m
+[13:56:56] [Server thread/INFO]: Type 'list_methods <bot_name>' to list bot methods.[m
+[13:57:06] [Netty Server IO #2/INFO]: <Pol> start insultbot[m
+[13:57:07] [Server thread/INFO]: Insultbot activated.[m
+[13:57:07] [Server thread/INFO]: [InsultBot]: IS YOUR BRAIN A BLACK HOLE? NOTHING ESCAPES![m
+[13:57:17] [Server thread/INFO]: [InsultBot]: IS YOUR BRAIN A BLACK HOLE? NOTHING ESCAPES![m
+[13:57:27] [Server thread/INFO]: [InsultBot]: YOU HAVE SOMETHING ON YOUR CHIN... NO, THE THIRD ONE DOWN.[m
+[13:57:28] [Netty Server IO #2/INFO]: <Pol> stop insultbot[m
+[13:57:37] [Server thread/INFO]: [InsultBot]: YOU HAVE SOMETHING ON YOUR CHIN... NO, THE THIRD ONE DOWN.[m
+[13:57:39] [Netty Server IO #2/INFO]: <Pol> stop insultbot[m
+[13:57:42] [Netty Server IO #2/INFO]: <Pol> stop insultbot[m
+[13:57:45] [Netty Server IO #2/INFO]: <Pol> stop insultbot[m
+[13:57:46] [Netty Server IO #2/INFO]: <Pol> stop insultbot[m
+[13:57:47] [Server thread/INFO]: [InsultBot]: IS YOUR BRAIN A BLACK HOLE? NOTHING ESCAPES![m
+[13:57:55] [Thread-49/INFO]: [RaspberryJuice] Connection reset
+[13:57:55] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51288.
+[13:58:59] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51297.
+[13:58:59] [Thread-51/INFO]: [RaspberryJuice] Starting input thread
+[13:58:59] [Thread-52/INFO]: [RaspberryJuice] Starting output thread!
+[13:58:59] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot, ChatBot[m
+[13:58:59] [Server thread/INFO]: Type 'start <bot_name>' to activate a bot.[m
+[13:58:59] [Server thread/INFO]: Type 'stop' to deactivate the active bot.[m
+[13:58:59] [Server thread/INFO]: Type 'list_methods <bot_name>' to list bot methods.[m
+[13:59:06] [Netty Server IO #2/INFO]: <Pol> start insultbot[m
+[13:59:27] [Netty Server IO #2/INFO]: <Pol> start insultbot[m
+[13:59:43] [Thread-51/INFO]: [RaspberryJuice] Connection reset
+[13:59:43] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51297.
+[14:00:02] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51299.
+[14:00:02] [Thread-53/INFO]: [RaspberryJuice] Starting input thread
+[14:00:02] [Thread-54/INFO]: [RaspberryJuice] Starting output thread!
+[14:00:02] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot, ChatBot[m
+[14:00:02] [Server thread/INFO]: Type 'start <bot_name>' to activate a bot.[m
+[14:00:02] [Server thread/INFO]: Type 'stop' to deactivate the active bot.[m
+[14:00:02] [Server thread/INFO]: Type 'list_methods <bot_name>' to list bot methods.[m
+[14:00:06] [Netty Server IO #2/INFO]: <Pol> start insultbot[m
+[14:00:06] [Server thread/INFO]: Insultbot activated.[m
+[14:00:06] [Server thread/INFO]: [InsultBot]: YOU HAVE SOMETHING ON YOUR CHIN... NO, THE THIRD ONE DOWN.[m
+[14:00:16] [Server thread/INFO]: [InsultBot]: IS YOUR BRAIN A BLACK HOLE? NOTHING ESCAPES![m
+[14:00:21] [Netty Server IO #2/INFO]: <Pol> stop[m
+[14:00:26] [Server thread/INFO]: InsultBot deactivated.[m
+[14:00:39] [Netty Server IO #2/INFO]: <Pol> start chatbot[m
+[14:00:40] [Server thread/INFO]: Chatbot activated.[m
+[14:01:13] [Netty Server IO #2/INFO]: <Pol> chatbot: hola, como te llamas?[m
+[14:04:09] [Server thread/INFO]: ChatBot deactivated.[m
+[14:04:09] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51299.
+[14:04:21] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51307.
+[14:04:21] [Thread-55/INFO]: [RaspberryJuice] Starting input thread
+[14:04:21] [Thread-56/INFO]: [RaspberryJuice] Starting output thread!
+[14:04:21] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot, ChatBot[m
+[14:04:21] [Server thread/INFO]: Type 'start <bot_name>' to activate a bot.[m
+[14:04:21] [Server thread/INFO]: Type 'stop' to deactivate the active bot.[m
+[14:04:21] [Server thread/INFO]: Type 'list_methods <bot_name>' to list bot methods.[m
+[14:04:31] [Netty Server IO #2/INFO]: <Pol> start chatbot[m
+[14:04:31] [Server thread/INFO]: Chatbot activated.[m
+[14:05:04] [Netty Server IO #2/INFO]: <Pol> chatbot: hola, como te llamas?[m
+[14:05:23] [Netty Server IO #2/INFO]: <Pol> chatbot: cual es la capital de francia?[m
+[14:07:56] [Thread-55/INFO]: [RaspberryJuice] Connection reset
+[14:07:56] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51307.
+[14:09:21] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51334.
+[14:09:21] [Thread-57/INFO]: [RaspberryJuice] Starting input thread
+[14:09:21] [Thread-58/INFO]: [RaspberryJuice] Starting output thread!
+[14:09:21] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot, ChatBot[m
+[14:09:21] [Server thread/INFO]: Commands: start <bot_name>, stop, list_methods <bot_name>, execute_method <bot_name> <method>[m
+[14:09:28] [Netty Server IO #2/INFO]: <Pol> start chatbot[m
+[14:09:28] [Server thread/INFO]: Chatbot activated.[m
+[14:09:33] [Netty Server IO #2/INFO]: <Pol> chatbot: cual es la capital de francia?[m
+[14:09:33] [Server thread/INFO]: Unknown command: chatbot:[m
+[14:10:08] [Netty Server IO #2/INFO]: <Pol> cual es la capital de francia?[m
+[14:10:08] [Server thread/INFO]: Unknown command: cual[m
+[14:11:01] [Thread-57/INFO]: [RaspberryJuice] Connection reset
+[14:11:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51334.
+[14:14:34] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51348.
+[14:14:34] [Thread-60/INFO]: [RaspberryJuice] Starting output thread!
+[14:14:34] [Thread-59/INFO]: [RaspberryJuice] Starting input thread
+[14:14:34] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot, ChatBot[m
+[14:14:34] [Server thread/INFO]: Commands: start <bot_name>, stop[m
+[14:14:46] [Netty Server IO #2/INFO]: <Pol> start chatbot[m
+[14:14:46] [Server thread/INFO]: Chatbot activated.[m
+[14:14:59] [Netty Server IO #2/INFO]: <Pol> chatbot: cual es la capital de francia?[m
+[14:15:00] [Server thread/INFO]: ChatBot: > Par¡s[m
+[14:15:11] [Netty Server IO #2/INFO]: <Pol> chatbot: cual es la capital de españa?[m
+[14:15:12] [Server thread/INFO]: ChatBot: > Madrid[m
+[14:16:02] [Netty Server IO #2/INFO]: <Pol> chatbot: de que color era el caballo negro de santiago?[m
+[14:16:02] [Server thread/INFO]: [ChatBot]: Thinking...[m
+[14:16:02] [Server thread/INFO]: [ChatBot]: > Negro[m
+[14:16:20] [Netty Server IO #2/INFO]: <Pol> stop[m
+[14:16:48] [Netty Server IO #2/INFO]: <Pol> stop chatbot[m
+[14:17:17] [Thread-59/INFO]: [RaspberryJuice] Connection reset
+[14:17:17] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51348.
+[14:19:40] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51354.
+[14:19:40] [Thread-62/INFO]: [RaspberryJuice] Starting output thread!
+[14:19:40] [Thread-61/INFO]: [RaspberryJuice] Starting input thread
+[14:19:40] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot, ChatBot[m
+[14:19:40] [Server thread/INFO]: Commands: start <bot_name>, stop[m
+[14:19:52] [Netty Server IO #2/INFO]: <Pol> start insultbot[m
+[14:19:53] [Server thread/INFO]: Insultbot activated.[m
+[14:19:53] [Server thread/INFO]: [InsultBot]: IS YOUR BRAIN A BLACK HOLE? NOTHING ESCAPES![m
+[14:20:03] [Server thread/INFO]: [InsultBot]: YOU'RE PROOF THAT EVEN EVOLUTION CAN TAKE A COFFEE BREAK.[m
+[14:20:11] [Netty Server IO #2/INFO]: <Pol> stop[m
+[14:20:13] [Server thread/INFO]: InsultBot deactivated.[m
+[14:20:26] [Netty Server IO #2/INFO]: <Pol> start oraclebot[m
+[14:20:26] [Server thread/INFO]: Oraclebot activated.[m
+[14:20:42] [Netty Server IO #2/INFO]: <Pol> oraclebot: hola[m
+[14:21:30] [Netty Server IO #2/INFO]: <Pol> oraclebot: hola[m
+[14:21:37] [Netty Server IO #2/INFO]: <Pol> oraclebot: adsdasd[m
+[14:22:02] [Netty Server IO #2/INFO]: <Pol> stop[m
+[14:22:10] [Thread-61/INFO]: [RaspberryJuice] Connection reset
+[14:22:10] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51354.
+[14:22:19] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51356.
+[14:22:19] [Thread-63/INFO]: [RaspberryJuice] Starting input thread
+[14:22:19] [Thread-64/INFO]: [RaspberryJuice] Starting output thread!
+[14:22:19] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot, ChatBot[m
+[14:22:19] [Server thread/INFO]: Commands: start <bot_name>, stop[m
+[14:22:27] [Netty Server IO #2/INFO]: <Pol> start oraclebot[m
+[14:22:28] [Server thread/INFO]: Oraclebot activated.[m
+[14:22:33] [Netty Server IO #2/INFO]: <Pol> oraclebot: adsdasd[m
+[14:22:56] [Thread-63/INFO]: [RaspberryJuice] Connection reset
+[14:22:56] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51356.
+[14:24:13] [Thread-65/INFO]: [RaspberryJuice] Starting input thread
+[14:24:13] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51366.
+[14:24:13] [Thread-66/INFO]: [RaspberryJuice] Starting output thread!
+[14:24:18] [Netty Server IO #2/INFO]: <Pol> oraclebot: adsdasd[m
+[14:24:36] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51366.
+[14:30:43] [Thread-68/INFO]: [RaspberryJuice] Starting output thread!
+[14:30:43] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51440.
+[14:30:43] [Thread-67/INFO]: [RaspberryJuice] Starting input thread
+[14:30:43] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot[m
+[14:30:43] [Server thread/INFO]: Type 'start <bot_name>' to activate a bot.[m
+[14:30:43] [Server thread/INFO]: Type 'stop <bot_name>' to deactivate a bot.[m
+[14:30:49] [Netty Server IO #2/INFO]: <Pol> start oraclebot[m
+[14:30:49] [Server thread/INFO]: Oraclebot activated.[m
+[14:30:53] [Netty Server IO #2/INFO]: <Pol> oraclebot: adsdasd[m
+[14:31:31] [Thread-67/INFO]: [RaspberryJuice] Connection reset
+[14:31:31] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51440.
+[14:32:19] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51445.
+[14:32:19] [Thread-69/INFO]: [RaspberryJuice] Starting input thread
+[14:32:19] [Thread-70/INFO]: [RaspberryJuice] Starting output thread!
+[14:32:19] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot[m
+[14:32:19] [Server thread/INFO]: Type 'start <bot_name>' to activate a bot.[m
+[14:32:19] [Server thread/INFO]: Type 'stop <bot_name>' to deactivate a bot.[m
+[14:32:25] [Netty Server IO #2/INFO]: <Pol> start oraclebot[m
+[14:32:25] [Server thread/INFO]: Oraclebot activated.[m
+[14:32:29] [Netty Server IO #2/INFO]: <Pol> oraclebot: adsdasd[m
+[14:33:07] [Thread-69/INFO]: [RaspberryJuice] Connection reset
+[14:33:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51445.
+[14:33:14] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51452.
+[14:33:14] [Thread-71/INFO]: [RaspberryJuice] Starting input thread
+[14:33:14] [Thread-72/INFO]: [RaspberryJuice] Starting output thread!
+[14:33:15] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot[m
+[14:33:15] [Server thread/INFO]: Type 'start <bot_name>' to activate a bot.[m
+[14:33:15] [Server thread/INFO]: Type 'stop <bot_name>' to deactivate a bot.[m
+[14:33:19] [Netty Server IO #2/INFO]: <Pol> start oraclebot[m
+[14:33:20] [Server thread/INFO]: Oraclebot activated.[m
+[14:33:22] [Netty Server IO #2/INFO]: <Pol> oraclebot: adsdasd[m
+[14:33:34] [Netty Server IO #2/INFO]: <Pol> oraclebot: adsdasd[m
+[14:33:51] [Thread-71/INFO]: [RaspberryJuice] Connection reset
+[14:33:51] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51452.
+[14:33:54] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51457.
+[14:33:54] [Thread-74/INFO]: [RaspberryJuice] Starting output thread!
+[14:33:54] [Thread-73/INFO]: [RaspberryJuice] Starting input thread
+[14:34:00] [Netty Server IO #2/INFO]: <Pol> oraclebot: adsdasd[m
+[14:34:11] [Netty Server IO #2/INFO]: <Pol> oracle: adsdasd[m
+[14:34:12] [Server thread/INFO]: [OracleBot]: Answer: Yes.[m
+[14:34:16] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51457.
+[14:34:52] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51460.
+[14:34:52] [Thread-75/INFO]: [RaspberryJuice] Starting input thread
+[14:34:52] [Thread-76/INFO]: [RaspberryJuice] Starting output thread!
+[14:34:52] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot, ChatBot[m
+[14:34:52] [Server thread/INFO]: Commands: start <bot_name>, stop[m
+[14:34:58] [Netty Server IO #2/INFO]: <Pol> start oraclebot[m
+[14:34:58] [Server thread/INFO]: Oraclebot activated.[m
+[14:35:01] [Netty Server IO #2/INFO]: <Pol> oracle: adsdasd[m
+[14:35:02] [Server thread/INFO]: OracleBot: Yes.[m
+[14:35:06] [Netty Server IO #2/INFO]: <Pol> stop[m
+[14:37:20] [Thread-75/INFO]: [RaspberryJuice] Connection reset
+[14:37:20] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51460.
+[14:38:04] [Thread-77/INFO]: [RaspberryJuice] Starting input thread
+[14:38:04] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51469.
+[14:38:04] [Thread-78/INFO]: [RaspberryJuice] Starting output thread!
+[14:38:05] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot, ChatBot[m
+[14:38:05] [Server thread/INFO]: Commands: start <bot_name>, stop[m
+[14:38:17] [Netty Server IO #2/INFO]: <Pol> start insultbot[m
+[14:38:17] [Server thread/INFO]: Insultbot activated.[m
+[14:38:17] [Server thread/INFO]: [InsultBot]: IS YOUR BRAIN A BLACK HOLE? NOTHING ESCAPES![m
+[14:38:27] [Server thread/INFO]: [InsultBot]: IS YOUR BRAIN A BLACK HOLE? NOTHING ESCAPES![m
+[14:38:28] [Netty Server IO #2/INFO]: <Pol> stop[m
+[14:38:37] [Server thread/INFO]: InsultBot deactivated.[m
+[14:38:48] [Netty Server IO #2/INFO]: <Pol> start chatbot[m
+[14:38:48] [Server thread/INFO]: Chatbot activated.[m
+[14:39:05] [Netty Server IO #2/INFO]: <Pol> chatbot: como se llama el presidente de estados unidos?[m
+[14:39:05] [Server thread/INFO]: [ChatBot]: Thinking...[m
+[14:39:06] [Server thread/INFO]: [ChatBot]: > Joe Biden[m
+[14:41:26] [Netty Server IO #2/INFO]: <Pol> stop[m
+[14:45:25] [Thread-77/INFO]: [RaspberryJuice] Connection reset
+[14:45:25] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51469.
+[14:57:28] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51528.
+[14:57:28] [Thread-80/INFO]: [RaspberryJuice] Starting output thread!
+[14:57:28] [Thread-79/INFO]: [RaspberryJuice] Starting input thread
+[14:57:28] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot, ChatBot[m
+[14:57:28] [Server thread/INFO]: Commands: start <bot_name>, stop[m
+[14:57:33] [Netty Server IO #2/INFO]: <Pol> start chatbot[m
+[14:57:34] [Server thread/INFO]: Chatbot activated.[m
+[14:58:35] [Netty Server IO #2/INFO]: <Pol> chatbot: como se llama el presidente de estados unidos?[m
+[14:58:36] [Server thread/INFO]: ChatBot: > Joe Biden[m
+[14:58:41] [Netty Server IO #2/INFO]: <Pol> stop[m
+[14:58:53] [Netty Server IO #2/INFO]: <Pol> stop[m
+[14:59:20] [Netty Server IO #2/INFO]: <Pol> stop[m
+[15:00:07] [Thread-79/INFO]: [RaspberryJuice] Connection reset
+[15:00:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51528.
+[15:00:14] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51536.
+[15:00:14] [Thread-81/INFO]: [RaspberryJuice] Starting input thread
+[15:00:14] [Thread-82/INFO]: [RaspberryJuice] Starting output thread!
+[15:00:14] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot, ChatBot[m
+[15:00:14] [Server thread/INFO]: Commands: start <bot_name>, stop[m
+[15:00:18] [Netty Server IO #2/INFO]: <Pol> start chatbot[m
+[15:00:19] [Server thread/INFO]: Chatbot activated.[m
+[15:00:28] [Netty Server IO #2/INFO]: <Pol> chatbot: como se llama el presidente de estados unidos?[m
+[15:00:29] [Server thread/INFO]: [ChatBot]: Thinking...[m
+[15:00:30] [Server thread/INFO]: [ChatBot]: > Joe Biden[m
+[15:00:33] [Netty Server IO #2/INFO]: <Pol> stop[m
+[15:01:16] [Netty Server IO #2/INFO]: <Pol> stop[m
+[15:01:26] [Netty Server IO #2/INFO]: <Pol> stopstopstopstopstopstopstop[m
+[15:01:28] [Netty Server IO #2/INFO]: <Pol> stop[m
+[15:01:38] [Netty Server IO #2/INFO]: <Pol> chatbot: como se llama el presidente de españa?[m
+[15:01:49] [Thread-81/INFO]: [RaspberryJuice] Connection reset
+[15:01:49] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51536.
+[15:03:03] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51548.
+[15:03:03] [Thread-83/INFO]: [RaspberryJuice] Starting input thread
+[15:03:03] [Thread-84/INFO]: [RaspberryJuice] Starting output thread!
+[15:03:03] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot[m
+[15:03:03] [Server thread/INFO]: Type 'start <bot_name>' to activate a bot.[m
+[15:03:03] [Server thread/INFO]: Type 'stop <bot_name>' to deactivate a bot.[m
+[15:03:11] [Netty Server IO #2/INFO]: <Pol> start chatbot[m
+[15:03:11] [Server thread/INFO]: Chatbot activated.[m
+[15:03:15] [Netty Server IO #2/INFO]: <Pol> chatbot: como se llama el presidente de españa?[m
+[15:03:15] [Server thread/INFO]: [ChatBot]: Thinking...[m
+[15:03:17] [Server thread/INFO]: [ChatBot]: > Pedro S nchez[m
+[15:03:30] [Netty Server IO #2/INFO]: <Pol> stop chatbot[m
+[15:04:31] [Thread-83/INFO]: [RaspberryJuice] Connection reset
+[15:04:31] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51548.
+[15:04:47] [Thread-86/INFO]: [RaspberryJuice] Starting output thread!
+[15:04:47] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51557.
+[15:04:47] [Thread-85/INFO]: [RaspberryJuice] Starting input thread
+[15:04:47] [Server thread/INFO]: Available bots: OracleBot, InsultBot, TNTBot[m
+[15:04:47] [Server thread/INFO]: Type 'start <bot_name>' to activate a bot.[m
+[15:04:47] [Server thread/INFO]: Type 'stop <bot_name>' to deactivate a bot.[m
+[15:04:53] [Netty Server IO #2/INFO]: <Pol> start chatbot[m
+[15:04:53] [Server thread/INFO]: Chatbot activated.[m
+[15:04:59] [Netty Server IO #2/INFO]: <Pol> stop chatbot[m
+[15:05:11] [Netty Server IO #2/INFO]: <Pol> stop chatbot[m
+[15:05:18] [Netty Server IO #2/INFO]: <Pol> chatbot: como se llama el presidente de españa?[m
+[15:05:19] [Server thread/INFO]: [ChatBot]: Thinking...[m
+[15:05:20] [Server thread/INFO]: [ChatBot]: > Pedro S nchez[m
+[15:05:25] [Netty Server IO #2/INFO]: <Pol> stop chatbot[m
+[15:05:58] [Thread-85/INFO]: [RaspberryJuice] Connection reset
+[15:05:58] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51557.
+[15:12:36] [Server thread/INFO]: Pol lost connection: Disconnected
+[15:12:36] [Server thread/INFO]: Pol left the game
