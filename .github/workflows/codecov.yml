@@ -47,7 +47,7 @@ jobs:
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v3
         with:
-          token: 8e803a48-89db-48ea-934d-45efcb3b0cb5
+          token: 647224db-a0b9-4694-8265-90a976f6fc7e
           files: ./coverage.xml
           flags: unittests
           name: codecov-coverage

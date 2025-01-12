@@ -1,5 +1,5 @@
 # Minecraft Agent Framework
-
+[![codecov](https://codecov.io/github/TyrkerS/Axies/graph/badge.svg?token=I1GK59EB31)](https://codecov.io/github/TyrkerS/Axies)
 Este proyecto implementa un marco de trabajo en Python que permite el desarrollo y ejecución de agentes 
 programados para interactuar con un servidor compartido de Minecraft. 
 Los agentes pueden moverse, interactuar con el entorno, construir y destruir bloques, y enviar o recibir 
